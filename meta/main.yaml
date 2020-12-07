@@ -1,0 +1,8 @@
+---
+dependencies:
+  - src: "https://git@github.com/illallangi-alfa/configure-nvidia-repository.git"
+    scm: git
+    version: master
+  - src: "https://git@github.com/illallangi-alfa/install-nvidia-driver.git"
+    scm: git
+    version: master
